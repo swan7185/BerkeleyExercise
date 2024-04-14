@@ -28,6 +28,5 @@ public class Main {
         dessert1.printDessert();
         Dessert dessert2 = new Dessert(4,7);
         dessert2.printDessert();
-
     }
 }
